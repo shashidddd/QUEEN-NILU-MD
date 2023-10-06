@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;ZuZXQajK#4Uk5Mod7C8dVBq305FIq4XfuWdOeVTyN6ex0kaUZR70' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://shashibot_user:zgM0nAMJzwEP0QSrr2BYHXh9jZ3oth5i@dpg-ckg56kr6fquc739aqtr0-a.frankfurt-postgres.render.com/shashibot'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94741619883'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ᴅᴜʟɴᴀᴋᴀ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,23 +41,34 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ǫᴜᴇᴇɴ ꜱʜᴀꜱʜɪ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@shashi bot 🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'Queen Shashi 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'ǫᴜᴇᴇɴ ꜱʜᴀꜱʜɪ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = '🎲💖🅆🄴🄻🄲🄾🄼🄴🎲💖
+
+✶━━┉┉┉┉┉━╾╾━┉┉┉┉┉━━✶🧚‍♀️ʙᴏᴛ ɴᴀᴍᴇ -: queen shasi
+✶━━┉┉┉┉┉━╾╾━┉┉┉┉┉━━✶
+🧚‍♀️ᴏᴡɴᴇʀ -: ᴅᴜʟᴀ (×_×)
+✶━━┉┉┉┉┉━╾╾━┉┉┉┉┉━━✶
+🧸𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝙎🧸
+✶━━┉┉┉┉┉━╾╾━┉┉┉┉┉━━✶
+┏┉┉┉┉┉┉┉┉━┉┉┉┉┉┉┉┉⃥⚙️______(.menu)_____
+
+....ɴɪᴋᴇ ɴᴀᴍᴇ...:- ᴄʜᴜᴛɪ ᴛᴇᴅɪʏᴀ🧸💖
+┖┈─┈──┈─◈❁◈─┈─┈─' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
